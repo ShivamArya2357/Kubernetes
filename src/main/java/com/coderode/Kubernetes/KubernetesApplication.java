@@ -15,6 +15,6 @@ public class KubernetesApplication {
 
 	@GetMapping("/greetings")
 	public String message() {
-		return "Welcome to CodeRode ! App deployed in AWS EKS";
+		return "Welcome to CodeRode ! App deployed in AWS EKS - Dev";
 	}
 }
