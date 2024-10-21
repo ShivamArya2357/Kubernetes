@@ -1,2 +1,2 @@
 # Kubernetes
-This is sample kubernetes application
+This is a sample kubernetes application
